@@ -17,12 +17,12 @@ use one instead of another?
 stored locally?
 
     Having a local copy ensures that you have a chance to commit your work and make commit messages before uploading. It also helps you work without internet access.
-    
+
 
 5. How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I'm not sure. Through email? Side by side pairing? Screen sharing?
 
 6. When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
